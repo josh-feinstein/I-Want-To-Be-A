@@ -20,3 +20,19 @@
 .App-link {
   color: #09d3ac;
 }
+
+table {
+    border: solid 1px white;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+tr td {
+    font-size: 20px;
+}
+
+thead td {
+    text-decoration: underline;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
